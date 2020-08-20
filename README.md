@@ -1,19 +1,20 @@
-### Hi, I'm Jeff. [website] 👋
+### Hi, I'm Jeff. 👋
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 📈 I'm a Senior Data Analyst at ChemPoint - focusing on applications of machine learning and predictive analytics.
+- 🌐 I also have extensive experience with web development, web analytics, digital marketing, and SEO.
+- 🧪 Lately, I've been focused on data science process automation and testing.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: Video games, hiking, turkeys, and ducks (see [Instagram][instagram])
+- 🥾 Hobbies: Video games, hiking, turkeys, and ducks (see [Instagram][instagram])
+
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Redoxic.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LPHOMIEJ Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="My LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="My Instagram Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br /><br />
 
 ### IDEs:
 
@@ -24,8 +25,8 @@
 <br><br>
 
 ### Languages & Frameworks
-<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
 <img align="left" alt=".NET Framework" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
