@@ -3,7 +3,7 @@
 - 📈 I'm a Senior Data Analyst at ChemPoint - focusing on applications of machine learning and predictive analytics.
 - 🌐 I also have extensive experience with web development, web analytics, digital marketing, and SEO.
 - 🧪 Lately, I've been focused on data science process automation and testing.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🥾 Hobbies: Video games, hiking, turkeys, and ducks (see [Instagram][instagram])
 
 
