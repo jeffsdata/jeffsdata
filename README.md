@@ -1,6 +1,6 @@
 # Hi, I'm Jeff. 👋
 
-- 📈 I'm a Data Scientist at ChemPoint - a full-stack machine learning developer. My job consists of process mining, data analysis, model development, web & API development, machine learning ops (MLOps), monitoring/observability, and project management.
+- 📈 I'm a Data Scientist at ChemPoint. My job consists of process mining, data analysis, model development, web & API development, machine learning ops (MLOps), monitoring/observability, and project management.
 - 🌐 I also have extensive experience with web development, web analytics, digital marketing, and SEO.
 - 🧪 Lately, I've been focused on data science process automation and testing.
 - 🥅 2022 Goals: Contribute more to Open Source projects
