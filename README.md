@@ -8,7 +8,6 @@
 
 <br><br>
 ## Connect with me:
-[<img align="left" alt="Redoxic.com" src="https://img.shields.io/badge/REDOXIC-1a99aa?style=for-the-badge&logoColor=white" />][website]
 [<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="My Instagram Profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
